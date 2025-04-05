@@ -29,10 +29,4 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Trophies](https://github-profile-trophy.vercel.app/?username=palanque92&theme=flat&column=3)
-
-
-
-
-
-
+![Palanque92's Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&hide=prs&count_private=true&theme=tokyonight)

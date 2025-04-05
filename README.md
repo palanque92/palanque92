@@ -29,7 +29,8 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Language Count](https://github-readme-stats.vercel.app/api/top-langs/?username=palanque92&langs_count=8&theme=radical)
+![Palanque92's Most Starred Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=palanque92&hide=html&langs_count=5&theme=tokyonight)
+
 
 
 

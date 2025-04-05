@@ -29,4 +29,4 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=palanque92&bg_color=000000&color=ff69b4&line=00ff00&point=ff0000)
+![Profile Views](https://komarev.com/ghpvc/?username=palanque92&color=blueviolet&style=flat)

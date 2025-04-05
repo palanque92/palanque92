@@ -29,6 +29,4 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerboncuk&theme=tokyonight" />
-</p>
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerboncuk&show_icons=true&theme=radical)

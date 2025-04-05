@@ -29,5 +29,6 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=palanque92&theme=tokyonight)
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true)
+
 

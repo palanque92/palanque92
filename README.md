@@ -29,6 +29,7 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanque92&layout=compact&theme=radical)
+![Palanque92's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=palanque92&theme=tokyonight)
+
 
 

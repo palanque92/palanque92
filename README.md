@@ -34,7 +34,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true" alt="Omer's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true" alt="Omer's GitHub Stats" width="300" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palanque92&theme=tokyonight" alt="Omer's Streak Stats" width="300" />
 </p>
 

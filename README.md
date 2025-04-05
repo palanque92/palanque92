@@ -31,6 +31,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=palanque92&color=blueviolet&style=flat)
 ![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true)
+![Omer's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=palanque92&theme=tokyonight)
+
 
 
 

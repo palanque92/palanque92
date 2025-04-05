@@ -3,9 +3,8 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV2MWduMDc3NmU1ZWhrNWQxOG50cXFzMHlxdXFwOWZ2YjRlZW02ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZhMjhtNHhvdTBkOWd3bGxvcW93NHR3dmI2ajk1aWlzeGN3ZW9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
 </p>
-
 
 
 

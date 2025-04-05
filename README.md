@@ -29,4 +29,5 @@
 
 ### 📈 GitHub Stats
 
-![Palanque92's Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
+![Palanque92's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=palanque92&theme=tokyonight)
+

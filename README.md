@@ -30,6 +30,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=omerboncuk&bg_color=2A2A2A&color=ffffff&line=00ff00&point=00ff00&area=true&area_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omerboncuk&show_icons=true&theme=tokyonight" />
 </p>
-

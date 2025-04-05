@@ -2,8 +2,9 @@
 <h3 align="center">Software Quality Assurance Engineer | Automation Test Specialist</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1000380/screenshots/3718399/media/66e56449009814e1b35ca9ea5f9b530f.gif" width="400" />
 </p>
+
 
 ---
 

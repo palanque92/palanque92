@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">Software Quality Assurance Engineer | Automation Test Specialist</h3>
 
-<p align="center">
+[<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" />
-</p>
+</p>](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXI4NW5keDNwZmFycGQ5YjA4dG1zaXQyY3B0bHdjMmx3b2dxeWg0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif)
 
 
 

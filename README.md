@@ -7,13 +7,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Currently learning **Java, Selenium, Spring Boot, Docker**
-- 🛠️ Tools: `IntelliJ`, `Postman`, `Git`, `JIRA`
-- 💬 Ask me about: **Manual & Automated Testing**
-- 📫 How to reach me: boncukomer91@gmail.com
-
+- 🔎 QA Engineer with hands-on experience in **manual and automated testing** for web and mobile applications.
+- 🧪 Skilled in all phases of **SDLC, STLC**, and **Defect Management Lifecycle**.
+- 🚀 Passionate about building **robust automation frameworks** using Java, Selenium, TestNG, and Cucumber.
+- 📊 Proficient in **API testing**, **SQL**, and testing in **Agile/Scrum environments**.
+- 🧰 Familiar with continuous integration using **Jenkins** and version control with **Git/GitHub**.
 ---
 
 ### 🔧 Tech Stack

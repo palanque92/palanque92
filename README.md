@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omer</h1>
+<h3 align="center">A passionate QA Tester and future Backend Developer</h3>
 
-<!--
-**palanque92/palanque92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎓 Currently learning **Java, Selenium, Spring Boot, Docker**
+- 🛠️ Tools: `IntelliJ`, `Postman`, `Git`, `JIRA`
+- 💬 Ask me about: **Manual & Automated Testing**
+- 📫 How to reach me: boncukomer91@gmail.com
+
+---
+
+### 🔧 Tech Stack
+
+- Java, Selenium, TestNG, Maven, Jenkins  
+- MySQL, JDBC  
+- Git & GitHub  
+
+---
+
+### 📈 GitHub Stats
+
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerboncuk&show_icons=true&theme=tokyonight)

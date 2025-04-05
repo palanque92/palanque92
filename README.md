@@ -29,6 +29,4 @@
 
 ### 📈 GitHub Stats
 
-![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true)
-
-
+![Palanque92's Contribution Activity](https://github-readme-activity-graph.cyclic.app/graph?username=palanque92&bg_color=000000&color=ff69b4&line=00ff00&point=ff0000)

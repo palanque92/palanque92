@@ -29,4 +29,4 @@
 
 ### 📈 GitHub Stats
 
-![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerboncuk&show_icons=true&theme=radical)
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=radical)

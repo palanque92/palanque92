@@ -30,6 +30,7 @@
 ### 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=palanque92&color=blueviolet&style=flat)
-![Omer's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=palanque92&bg_color=ffffff&color=6a1b9a&line=00ff00&point=ff0000&area=true&area_color=000000&hide_border=true)
+![Omer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true)
+
 
 

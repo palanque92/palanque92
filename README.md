@@ -18,7 +18,8 @@
 - 🔎 QA Engineer with hands-on experience in **manual and automated testing** for web and mobile applications.
 - 🧪 Skilled in all phases of **SDLC, STLC**, and **Defect Management Lifecycle**.
 - 🚀 Passionate about building **robust automation frameworks** using Java, Selenium, TestNG, and Cucumber.
-- 🌐 Experienced in **API testing** using **Postman** and **Rest Assured**.
+- 📱 Experienced in **mobile automation testing** using **Appium** for Android and iOS apps.
+- 🌐 Skilled in **API testing** using **Postman** and **Rest Assured**.
 - 📊 Proficient in **SQL**, and testing in **Agile/Scrum environments**.
 - 🧰 Familiar with continuous integration using **Jenkins** and version control with **Git/GitHub**.
 
@@ -27,7 +28,8 @@
 ### 🔧 Tech Stack
 
 - Java, Selenium, TestNG, Maven, Jenkins  
-- Postman, Rest Assured  
+- Appium (Mobile Automation)  
+- Postman, Rest Assured (API Testing)  
 - MySQL, JDBC  
 - Git & GitHub  
 

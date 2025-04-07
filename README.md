@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZhMjhtNHhvdTBkOWd3bGxvcW93NHR3dmI2ajk1aWlzeGN3ZW9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="700" />
 </p>
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=palanque92&color=blueviolet&style=flat" alt="Profile Views" />
+</h3>
 
 
 
@@ -15,23 +18,22 @@
 - 🔎 QA Engineer with hands-on experience in **manual and automated testing** for web and mobile applications.
 - 🧪 Skilled in all phases of **SDLC, STLC**, and **Defect Management Lifecycle**.
 - 🚀 Passionate about building **robust automation frameworks** using Java, Selenium, TestNG, and Cucumber.
-- 📊 Proficient in **API testing**, **SQL**, and testing in **Agile/Scrum environments**.
+- 🌐 Experienced in **API testing** using **Postman** and **Rest Assured**.
+- 📊 Proficient in **SQL**, and testing in **Agile/Scrum environments**.
 - 🧰 Familiar with continuous integration using **Jenkins** and version control with **Git/GitHub**.
+
 ---
 
 ### 🔧 Tech Stack
 
 - Java, Selenium, TestNG, Maven, Jenkins  
+- Postman, Rest Assured  
 - MySQL, JDBC  
 - Git & GitHub  
 
 ---
 
 ### 📈 GitHub Stats
-
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=palanque92&color=blueviolet&style=flat" alt="Profile Views" />
-</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palanque92&show_icons=true&theme=tokyonight&hide_title=true" alt="Omer's GitHub Stats" width="337" />
